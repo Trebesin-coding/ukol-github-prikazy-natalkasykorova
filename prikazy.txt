@@ -1,0 +1,4 @@
+git clone https://github.com/Trebesin-coding/ukol-github-prikazy-natalkasykorova.git
+git add .
+git commit -m "nahrání webovky"
+git push origin main 
